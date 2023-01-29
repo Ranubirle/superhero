@@ -3,10 +3,10 @@
 :root {
   --poppins-font: "Poppins", sans-serif;
   --dark-color: #0a0a0a;
-  --red-color: #f64445;
+  --brown-color: #f64445;
   --light-color: #fff;
-  --grey-color: #505050;
-  --yellow-color: #f2c10e;
+  --aqua-color: #505050;
+  --pink-color: #f2c10e;
 }
 * {
   padding: 0;
